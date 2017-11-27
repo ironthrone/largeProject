@@ -1,0 +1,3 @@
+[submodule "toollib"]
+	path = toollib
+	url = https://github.com/ironthrone/toollib.git
